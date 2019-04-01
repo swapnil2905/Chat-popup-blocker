@@ -1,4 +1,5 @@
-![Comparison] (https://github.com/swapnil2905/Chat-popup-blocker/blob/master/promotional.psd)
+![Screenshot](promotional.jpg)
+
 
 # Chat-popup-blocker
 a chrome extension to block annoying chat popup's on websites
@@ -19,3 +20,4 @@ Thank you for helping to make this extension better :)
 ## Author
 
 [Swapnil martin](https://ascetic.1mb.site)
+[support me ](https://paypal.me/swapnilmartin?locale.x=en_GB)
