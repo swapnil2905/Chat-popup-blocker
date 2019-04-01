@@ -1,3 +1,5 @@
+![Comparison] (https://github.com/swapnil2905/Chat-popup-blocker/blob/master/promotional.psd)
+
 # Chat-popup-blocker
 a chrome extension to block annoying chat popup's on websites
 ## Installing
